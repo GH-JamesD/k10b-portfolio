@@ -4,6 +4,15 @@ layout: default
 nav_order: 3
 ---
 
+<div style="display: flex; justify-content: center;">
+    <figure>
+    <img src="./images/tree.jpg" alt="Tree" style="height: 300px;">
+    </figure>
+        <figure>
+    <img src="./images/tree2.jpg" alt="Another tree" style="height: 300px;">
+    </figure>
+</div>
+
 # 내가 나무라면
 
 <p style="text-align: center; font-size:20px;">

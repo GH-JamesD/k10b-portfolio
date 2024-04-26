@@ -4,6 +4,15 @@ layout: default
 nav_order: 4
 ---
 
+<div style="display: flex; justify-content: center;">
+    <figure>
+    <img src="./images/ocean.jpg" alt="Chuncheon" style="height: 300px;">
+    </figure>
+        <figure>
+    <img src="./images/gamcheon.jpg" alt="Palace" style="height: 300px;">
+    </figure>
+</div>
+
 # 동급생 면접
 
 ## 1. 앞으로 한국어로 뭐 하면 좋겠어요? 

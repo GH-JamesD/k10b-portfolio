@@ -6,7 +6,15 @@ nav_order: 2
 ---
 
 <div style="display: flex; justify-content: center;">
-    <img src="./images/hanok.png" alt="Hanok Village in Autumn" style="width: 900px;">
+    <figure>
+    <img src="./images/chuncheon.jpg" alt="Chuncheon" style="height: 300px;">
+    </figure>
+        <figure>
+    <img src="./images/palace.jpg" alt="Palace" style="height: 300px;">
+    </figure>
+            <figure>
+    <img src="./images/pagoda.jpg" alt="Pagoda" style="height: 300px;">
+    </figure>
 </div>
 
 # 쓰기 숙제

@@ -5,7 +5,9 @@ nav_order: 1
 ---
 
 <div style="display: flex; justify-content: center;">
-    <img src="./images/skyline.png" alt="Seoul Skyline" style="width: 1200px;">
+    <figure>
+    <img src="./images/panorama.jpg" alt="Panorama" style="height: 300px;">
+    </figure>
 </div>
 
 # Korean 10B Digital Portfolio

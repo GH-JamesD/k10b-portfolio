@@ -4,6 +4,15 @@ layout: default
 nav_order: 5
 ---
 
+<div style="display: flex; justify-content: center;">
+    <figure>
+    <img src="./images/yonsei.jpg" alt="Chuncheon" style="height: 300px;">
+    </figure>
+        <figure>
+    <img src="./images/namsan.jpg" alt="Palace" style="height: 300px;">
+    </figure>
+</div>
+
 # 반영된 생각
 
 <p style="text-align: left; font-size:20px;">
